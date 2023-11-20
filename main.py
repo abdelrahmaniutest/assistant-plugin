@@ -36,7 +36,7 @@ import streamlit as st
 def main():
     st.title("Assistant - Plugin Designer 🤖😉")
 
-    service_base = "https://e2b6-2a02-810d-243f-efe0-e52f-ac3c-36c3-91bb.ngrok-free.app"
+    service_base = "https://fee9-2a02-810d-243f-efe0-e82a-26ca-f7e1-2900.ngrok-free.app"
     endpoint_base = "/syntea-assistant/GCD-assistant/"
     
     user_msg_parameter = "?user_msg=${user_msg}"
